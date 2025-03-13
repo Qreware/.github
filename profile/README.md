@@ -1,4 +1,4 @@
-# ![Qreware Cover](https://i.ibb.co/com/wFpVMkyx/cover-photo.png)
+# ![MasterHead](https://i.ibb.co/com/wFpVMkyx/cover-photo.png)
 
 # Qreware
 
