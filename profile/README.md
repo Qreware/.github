@@ -37,9 +37,10 @@ Welcome to **Qreware** — the future of **AI-powered development tools** and **
 
 For any questions or feedback, feel free to reach out to us:
 
-- **Email**: [support@qreware.com](mailto:info@qreware.com)
-- **Twitter**: [@Qreware](https://twitter.com/Qreware)
-- **LinkedIn**: [Qreware LinkedIn](https://linkedin.com/company/Qreware)
+- **Email**: [info@qreware.com](mailto:info@qreware.com)
+- **Facebook**: [Qreware](https://facebook.com/Qreware)
+- **Twitter**: [@Qreware](https://x.com/Qreware)
+- **LinkedIn**: [Qreware](https://linkedin.com/company/Qreware)
 
 ---
 
