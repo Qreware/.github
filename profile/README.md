@@ -1,7 +1,5 @@
 #[![MasterHead](https://i.ibb.co.com/wFpVMkyx/cover-photo.png)](https://qreware.com)
 
-# Qreware
-
 Welcome to **Qreware** — the future of **AI-powered development tools** and **cloud-based solutions**. We are on a mission to revolutionize the way developers, programmers, and professionals work, collaborate, and code, using cutting-edge AI technology and scalable cloud infrastructure.
 
 ## 🚀 About
