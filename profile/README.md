@@ -1,4 +1,4 @@
-#[![MasterHead](cover-photo.png)](https://qreware.com)
+[![MasterHead](cover-photo.png)](https://qreware.com)
 
 # Qreware
 
