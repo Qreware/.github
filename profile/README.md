@@ -33,35 +33,6 @@ Welcome to **Qreware** — the future of **AI-powered development tools** and **
 - **Full GitHub Integration**: Seamlessly link repositories, manage pull requests, and run tests within your IDE.
 - **FinTech Solutions**: Implement cutting-edge financial tools and APIs with Qreware’s FinTech suite.
 
-## 💬 Getting Started
-
-To get started with Qreware, follow these simple steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Qreware/qreware.git
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Run the application:
-    ```bash
-    npm start
-    ```
-
-## 🤝 Contributing
-
-We welcome contributions from the community. To contribute to **Qreware**, please follow the steps below:
-
-1. Fork this repository.
-2. Create your feature branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a Pull Request.
-
 ## 📄 License
 
 Qreware is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
@@ -70,9 +41,9 @@ Qreware is licensed under the MIT License. See [LICENSE](LICENSE) for more detai
 
 For any questions or feedback, feel free to reach out to us:
 
-- **Email**: [support@qreware.com](mailto:support@qreware.com)
+- **Email**: [support@qreware.com](mailto:info@qreware.com)
 - **Twitter**: [@Qreware](https://twitter.com/Qreware)
-- **LinkedIn**: [Qreware LinkedIn](https://linkedin.com/company/qreware)
+- **LinkedIn**: [Qreware LinkedIn](https://linkedin.com/company/Qreware)
 
 ---
 
