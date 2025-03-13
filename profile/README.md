@@ -33,10 +33,6 @@ Welcome to **Qreware** — the future of **AI-powered development tools** and **
 - **Full GitHub Integration**: Seamlessly link repositories, manage pull requests, and run tests within your IDE.
 - **FinTech Solutions**: Implement cutting-edge financial tools and APIs with Qreware’s FinTech suite.
 
-## 📄 License
-
-Qreware is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
 ## 📝 Contact
 
 For any questions or feedback, feel free to reach out to us:
