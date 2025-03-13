@@ -2,10 +2,6 @@
 
 # Qreware
 
-1. **Build Status**: [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-repo/build-status)
-2. **License**: [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
-3. **Version**: [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/your-repo/version)
-
 Welcome to **Qreware** — the future of **AI-powered development tools** and **cloud-based solutions**. We are on a mission to revolutionize the way developers, programmers, and professionals work, collaborate, and code, using cutting-edge AI technology and scalable cloud infrastructure.
 
 ## 🚀 About
